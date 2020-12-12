@@ -12,6 +12,7 @@ Our repertory contains five folders:
 - **Report**
 
 The results are reproducible as seeds have been used throughout the code.
-We implemented the code on Jupyter notebooks and the version of R is 3.6.3. 
+We implemented the code on Jupyter notebooks and the version of R is 3.6.3.
 
+Before running the code, pay attention to the path for the download of the data. 
 
