@@ -11,6 +11,8 @@ Our repertory contains five folders:
 - **Submissions**: code of the kaggle submissions 
 - **Report**
 
+We used our own test sets to compare models and estimate the RMSE, but submissions have been made using the full data set.
+
 The results are reproducible as seeds have been used throughout the code.
 We implemented the code on Jupyter notebooks and the version of R is 3.6.3.
 
