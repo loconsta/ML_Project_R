@@ -7,7 +7,9 @@ Our repertory includes:
 - the folder **src** containing 5 others folders:
   - **Exploration**
   - **linear models**: Lasso cross-validation
-  - **non-linear models**: 2 files: Neuronal Networks and Boosting (also tree, randomForest)
+  - **non-linear models**: 2 files: 
+      - Neuronal Networks
+      - Boosting (also tree, randomForest)
   - **Variance of models**: Comparison of the different best models after individual tunning in the previous files. 
   - **Submissions**: code of the kaggle submissions 
 - **Report**
