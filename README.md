@@ -8,7 +8,7 @@ Our repertory includes:
   - **Exploration**
   - **linear models**: Lasso cross-validation
   - **non-linear models**: 2 files: 
-      - Neuronal Networks
+      - Neural Networks
       - Boosting (also tree, randomForest)
   - **Variance of models**: Comparison of the different best models after individual tunning in the previous files. 
   - **Submissions**: code of the kaggle submissions 
